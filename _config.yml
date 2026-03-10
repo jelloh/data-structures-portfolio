@@ -1,4 +1,9 @@
 title: Data Structures Portfolio
 description: A portfolio documenting my learning in Data Structures.
 theme: jekyll-theme-minimal
+
+author: Your Name
+
 show_downloads: false
+github:
+  is_project_page: false
