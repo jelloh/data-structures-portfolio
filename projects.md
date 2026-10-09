@@ -9,8 +9,7 @@ For this project, I focused on creating a text compressor that utilizes a Binary
 
 [Read about my methods and testing here!](projects/tree_project.md)
 
-[Read my reflection here!]
-(reflections/tree_project_reflection.md)
+[Read my reflection here!](reflections/tree_project_reflection.md)
 
 ## Binary Search Trees
 
