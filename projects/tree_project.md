@@ -1,5 +1,5 @@
 # Project 1: Recursive Structure Engine - Text Compression
-You can find my original project code at: ___
+You can find my original project code at: [TextCompressionTree](https://github.com/dmendoza-24/TextCompressionTree)
 
 ## Classes Module
 CompressionNode, or Node, is a class that represents a chunk of a compressed message. When creating an instance, the Node takes a name and the content/text, which is compressed into binary form. It also creates empty references to left and right children. Node also has a to_text() method that converts the content to readable text from binary.
