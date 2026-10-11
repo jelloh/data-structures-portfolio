@@ -15,3 +15,8 @@ Compressing a message through a binary tree, getting a specific compressed chunk
 
 ## A brief comparison of recursive and iterative approaches for one task.
 I did not use iteration in my project, for the main reason that using recursion can often reduce the length of the code. At least in my case, I feel that it did, as my get() and post_order() methods happened to be a few lines only.
+
+## Example Output
+The following example shows the user compressing the message, 'ITSC2214'.
+
+!["Output example when message is ITSC2214"](example_compression.png)
